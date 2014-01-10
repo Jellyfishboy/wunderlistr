@@ -1,6 +1,6 @@
 = wunderlistr
 
-A Ruby wrapper for Wunderlist API - http://wunderlist.com
+A Ruby wrapper for the Wunderlist API - http://wunderlist.com
 
 = Installation
 
