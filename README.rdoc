@@ -1,6 +1,6 @@
 = wunderlistr
 
-A Ruby wrapper for Wunderlist API http://wunderlist.com
+A Ruby wrapper for Wunderlist API - http://wunderlist.com
 
 = Installation
 
@@ -10,7 +10,7 @@ A Ruby wrapper for Wunderlist API http://wunderlist.com
 
 * Fork the project
 * Create your feature or bug fix
-* Add the requrired tests for it.
+* Add the requried tests for it.
 * Commit (do not change version or history)
 * Send a pull request against the *development* branch
 
