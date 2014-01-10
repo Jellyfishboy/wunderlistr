@@ -1,15 +1,15 @@
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'wunderbar-wunderlist/version'
+require 'version'
 
 Gem::Specification.new do |gem|
   gem.name        = "wunderbar-wunderlist"
-  gem.version     = WunderbarWunderlist::VERSION
+  gem.version     = Wunderlistr::VERSION
   gem.authors     = ["Tom Dallimore"]
   gem.email       = ["tom.alan.dallimore@gmail.com"]
   gem.description = "A Ruby wrapper for the Wunderlist API "
   gem.summary     = "A Ruby wrapper for the Wunderlist API."
-  gem.homepage    = "https://github.com/Jellyfishboy/wunderbar-wunderlist"
+  gem.homepage    = "https://github.com/Jellyfishboy/wunderlistr"
 
   gem.add_development_dependency 'shoulda',   ">= 2.11.0"
   gem.add_development_dependency 'fakeweb',   ">= 1.3.0"
